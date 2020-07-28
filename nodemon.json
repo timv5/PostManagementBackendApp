@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_ATLA_PW": "SET_PASS",
+    "JWT_KEY": "SET_SOME_LONG_STRING",
+    "TEMP_STRING_TOKEN": ""
+  }
+}
